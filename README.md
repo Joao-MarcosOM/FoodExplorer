@@ -67,6 +67,12 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Links 🔗
+
+- [Repositório do BackEnd](https://github.com/Joao-MarcosOM/FoodExplorer-API)
+- [Aplicação Online](https://rocketfoodexplorer.netlify.app/)
+
 ## Redes 📸
 
 Desenvolvido por João Marcos Oliveira Melo 💼
