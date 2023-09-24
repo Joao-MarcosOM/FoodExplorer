@@ -35,7 +35,7 @@ Administradores:
 ![rocketfoodexplorer netlify app_ (4)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/b532a743-8d60-485a-aea0-ef89996bb725)
   
 ### Modo Mobile:
-![Mobile 1](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/651fc8f0-80d2-40be-8a22-75da44ab0ba5)
+![mobile (4)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/1f2095ba-1151-448d-86d8-95f4143b29c0)
 
 ### Visão de Usuário
 ![User 2](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/029c5be1-497f-4db1-bac7-1088cd38f3dc)
