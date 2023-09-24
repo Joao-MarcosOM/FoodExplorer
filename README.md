@@ -13,20 +13,28 @@ Usuários:
 - Detalhes do prato: Visualize informações detalhadas sobre um prato, como ingredientes, preço, descrição, categoria e uma foto do prato.
 
 Modo Desktop:
+  ![rocketfoodexplorer netlify app_ (5)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/9dbfeac6-0a52-47cd-b809-3b2527c1636f)
 
-Visão de administrador:
-![rocketfoodexplorer netlify app_](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/8072919b-0884-4a82-b7c2-b347d910be05)
-
-![rocketfoodexplorer netlify app_ (1)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/e35c1e3c-9251-44e5-b610-5eda16011db9)
-
-![rocketfoodexplorer netlify app_ (2)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/3b8cefd9-9b80-4925-87b6-19eea259b6f4)
+  Visão de administrador:
+  ![rocketfoodexplorer netlify app_](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/8072919b-0884-4a82-b7c2-b347d910be05)
+  
+  ![rocketfoodexplorer netlify app_ (1)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/e35c1e3c-9251-44e5-b610-5eda16011db9)
+  
+  ![rocketfoodexplorer netlify app_ (2)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/3b8cefd9-9b80-4925-87b6-19eea259b6f4)
+  
+  Visão de usuário:
+  ![rocketfoodexplorer netlify app_ (3)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4b0b47f8-94c3-4279-ac2d-234ecb7830a8)
+  
+  ![rocketfoodexplorer netlify app_ (4)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/b532a743-8d60-485a-aea0-ef89996bb725)
 
 Modo Mobile:
+  ![rocketfoodexplorer netlify app_(Explorer) (2)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/651fc8f0-80d2-40be-8a22-75da44ab0ba5)
 
-Visão de administrador:
+  Visão de Usuário
+  ![rocketfoodexplorer netlify app_(Explorer) (3)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/029c5be1-497f-4db1-bac7-1088cd38f3dc)
 
-![rocketfoodexplorer netlify app_(Explorer)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/ef01736d-109e-4a7a-87e6-eb1598ab72db)
-![rocketfoodexplorer netlify app_(Explorer) (1)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/2b2053f8-0975-467b-999e-4fc5a0d4db6c)
+  Visão de administrador:
+  ![rocketfoodexplorer netlify app_(Explorer)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/ef01736d-109e-4a7a-87e6-eb1598ab72db)
 
 ## Tecnologias Utilizadas 🛠️
 
