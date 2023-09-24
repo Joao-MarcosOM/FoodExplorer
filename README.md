@@ -24,6 +24,7 @@ Visão de administrador:
 Modo Mobile:
 
 Visão de administrador:
+
 ![rocketfoodexplorer netlify app_(Explorer)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/ef01736d-109e-4a7a-87e6-eb1598ab72db)
 ![rocketfoodexplorer netlify app_(Explorer) (1)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/2b2053f8-0975-467b-999e-4fc5a0d4db6c)
 
