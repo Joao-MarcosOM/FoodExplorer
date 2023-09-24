@@ -6,9 +6,7 @@ Modo Desktop:
   Visão de administrador:
   ![rocketfoodexplorer netlify app_](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/8072919b-0884-4a82-b7c2-b347d910be05)
   
-  ![rocketfoodexplorer netlify app_ (1)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/e35c1e3c-9251-44e5-b610-5eda16011db9)
   
-  ![rocketfoodexplorer netlify app_ (2)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/3b8cefd9-9b80-4925-87b6-19eea259b6f4)
   
   Visão de usuário:
   ![rocketfoodexplorer netlify app_ (3)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4b0b47f8-94c3-4279-ac2d-234ecb7830a8)
@@ -52,6 +50,10 @@ Administradores:
 
 ### Visão de administrador:
 ![Admin 1](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/8072919b-0884-4a82-b7c2-b347d910be05)
+
+![rocketfoodexplorer netlify app_ (1)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/e35c1e3c-9251-44e5-b610-5eda16011db9)
+  
+![rocketfoodexplorer netlify app_ (2)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/3b8cefd9-9b80-4925-87b6-19eea259b6f4)
   
 ### Visão de usuário:
 ![User 1](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4b0b47f8-94c3-4279-ac2d-234ecb7830a8)
