@@ -1,28 +1,3 @@
-
-
-Modo Desktop:
-  ![rocketfoodexplorer netlify app_ (5)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/9dbfeac6-0a52-47cd-b809-3b2527c1636f)
-
-  Visão de administrador:
-  ![rocketfoodexplorer netlify app_](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/8072919b-0884-4a82-b7c2-b347d910be05)
-  
-  
-  
-  Visão de usuário:
-  ![rocketfoodexplorer netlify app_ (3)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4b0b47f8-94c3-4279-ac2d-234ecb7830a8)
-  
-  ![rocketfoodexplorer netlify app_ (4)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/b532a743-8d60-485a-aea0-ef89996bb725)
-
-Modo Mobile:
-  ![rocketfoodexplorer netlify app_(Explorer) (2)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/651fc8f0-80d2-40be-8a22-75da44ab0ba5)
-
-  Visão de Usuário
-  ![rocketfoodexplorer netlify app_(Explorer) (3)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/029c5be1-497f-4db1-bac7-1088cd38f3dc)
-
-  Visão de administrador:
-  ![rocketfoodexplorer netlify app_(Explorer)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/ef01736d-109e-4a7a-87e6-eb1598ab72db)
-
-
 # FoodExplorer 🍽️
 
 Bem-vindo ao FoodExplorer! Este é um projeto de aplicação web desenvolvido com React e Vite para navegar e criar diversos pratos.
@@ -57,6 +32,7 @@ Administradores:
   
 ### Visão de usuário:
 ![User 1](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4b0b47f8-94c3-4279-ac2d-234ecb7830a8)
+![rocketfoodexplorer netlify app_ (4)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/b532a743-8d60-485a-aea0-ef89996bb725)
   
 ### Modo Mobile:
 ![Mobile 1](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/651fc8f0-80d2-40be-8a22-75da44ab0ba5)
