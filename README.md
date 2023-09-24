@@ -25,6 +25,8 @@ Visão de administrador:
 ![rocketfoodexplorer netlify app_(Explorer)](https://github.com/Joao-MarcosOM/RocketMovies/assets/70643779/ef01736d-109e-4a7a-87e6-eb1598ab72db)
 ![mobile](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/09675595-2f61-4bd7-9275-fca188168e33)
 ![mobile (1)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/8b059763-a7e6-43b5-aa2e-c9b4e752af20)
+![mobile (2)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/4c897463-3cc7-430b-91a0-21f4b893e5ed)
+![rocketfoodexplorer netlify app_(Explorer) (1)](https://github.com/Joao-MarcosOM/FoodExplorer/assets/70643779/2b2053f8-0975-467b-999e-4fc5a0d4db6c)
 
 ## Tecnologias Utilizadas 🛠️
 
