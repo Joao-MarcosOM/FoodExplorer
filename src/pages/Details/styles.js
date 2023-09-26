@@ -73,7 +73,12 @@ export const Main = styled.div`
   }
 
   > .infoProduct {
-
+    max-width: 316px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
     .content {
       display: flex;
       flex-direction: column;
@@ -141,15 +146,17 @@ export const Main = styled.div`
     > .editProduct{
       margin-top: 48px;
       margin-bottom: 54px;
-      width: 100%;
+      width: 316px;
     }
   }
+
     
     @media (min-width: 700px) {
       width: 1122px;
       margin: 0 auto;
       display: flex;
-      flex-direction: row; 
+      flex-direction: row;
+      align-items: flex-start;
       gap: 47px;
 
       flex: 1;
@@ -161,7 +168,10 @@ export const Main = styled.div`
       }
 
       > .infoProduct {
-        width: 687px;
+        min-width: 687px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
 
         .content {
           display: flex;

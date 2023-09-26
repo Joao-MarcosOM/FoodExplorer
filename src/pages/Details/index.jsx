@@ -102,7 +102,7 @@ export function Details() {
           {data && [USER_ROLE.ADMIN].includes(user.role) && (
             <div className="editProduct">
                 <Button  title="Editar prato" onClick={() => handleEditProduct(data.id)}/>
-              </div>
+            </div>
           )}
         </div>
       </Main>

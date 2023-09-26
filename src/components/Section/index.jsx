@@ -5,15 +5,7 @@ import { PiCaretRightBold, PiCaretLeftBold } from 'react-icons/pi';
 export function Section({ title, children }) {
   const listRef = useRef(null);
   const [showCarousel, setShowCarousel] = useState(false);
-
-  useEffect(() => {
-    const container = listRef.current;
-    if (container) {
-      const childrenCount = container.children.length;
-      setShowCarousel(childrenCount > 3);
-    }
-  }, [children]);
-
+  
   const scrollLeft = () => {
     const container = listRef.current;
     if (container) {
@@ -33,14 +25,20 @@ export function Section({ title, children }) {
       container.appendChild(firstChild);
     }
   };
-
+  
+  useEffect(() => {
+    const container = listRef.current;
+    if (container) {
+      const childrenCount = container.children.length;
+      setShowCarousel(childrenCount > 3);
+    }
+  }, [children]);
   return (
     <Container>
       <h2>{title}</h2>
-      <div className={`listItens ${showCarousel ? 'show-carousel' : ''}`} ref={listRef}>   
+      <div className={`listItens ${showCarousel ? 'show-carousel' : ''}`} ref={listRef}>
         {children}
       </div>
-
         {showCarousel && 
             <div className="gradientLeft">
                 <PiCaretLeftBold id="leftArrow" onClick={scrollLeft} />

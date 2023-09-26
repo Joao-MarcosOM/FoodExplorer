@@ -45,7 +45,7 @@ export const Container = styled.section`
 
     > .gradientLeft{
         height: 470px;
-        width: 350px;
+        width: 300px;
         background: linear-gradient(90deg, rgba(0,10,15,1) 0%, rgba(255,255,255,0) 35%);        
         position: relative;
         top: -475px;
