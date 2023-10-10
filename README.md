@@ -68,6 +68,13 @@ npm install
 npm run dev
 ```
 
+## Acesso à Visão de Admin 🔐
+
+Para acessar a visão de administrador, utilize as seguintes credenciais:
+
+- Email: admin@gmail.com
+- Senha: 123456
+
 ## Links 🔗
 
 - [Repositório do BackEnd](https://github.com/Joao-MarcosOM/FoodExplorer-API)
